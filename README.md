@@ -1,5 +1,9 @@
 https://www.codewars.com/users/Damir747
 
+The boolean order
+boolean-order.js
+https://www.codewars.com/kata/59eb1e4a0863c7ff7e000008/train/javascript
+
 Text align justify
 justify.js
 https://www.codewars.com/kata/537e18b6147aa838f600001b
