@@ -23,3 +23,7 @@ https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7/train/javascript
 Squeaky Window
 squeaky-window.js
 https://www.codewars.com/kata/55f8b5b09ec923860200000f
+
+Distinct contiguous elements in every window of size k
+distinct-contiguous-elements-in-every-window-of-size-k.js
+https://www.codewars.com/kata/5945f0c207693bc53100006b
