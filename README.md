@@ -27,3 +27,7 @@ https://www.codewars.com/kata/55f8b5b09ec923860200000f
 Distinct contiguous elements in every window of size k
 distinct-contiguous-elements-in-every-window-of-size-k.js
 https://www.codewars.com/kata/5945f0c207693bc53100006b
+
+Affordable Vacation
+find-min-cost-vacation.js
+https://www.codewars.com/kata/66871953e441f6da6e36a0cc/javascript
