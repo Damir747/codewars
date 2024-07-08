@@ -39,3 +39,7 @@ https://www.codewars.com/kata/5a1dc4baffe75f270200006b
 Count IP Addresses
 ips-between.js
 https://www.codewars.com/kata/526989a41034285187000de4
+
+Greed is Good
+score.js
+https://www.codewars.com/kata/5270d0d18625160ada0000e4
