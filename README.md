@@ -43,3 +43,7 @@ https://www.codewars.com/kata/526989a41034285187000de4
 Greed is Good
 score.js
 https://www.codewars.com/kata/5270d0d18625160ada0000e4
+
+Simple Fun #273: Powerset
+powerset.js
+https://www.codewars.com/kata/59157809f05d9a8ad7000096
