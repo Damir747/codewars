@@ -35,3 +35,7 @@ https://www.codewars.com/kata/66871953e441f6da6e36a0cc/javascript
 Only Duplicates
 only-duplicates.js
 https://www.codewars.com/kata/5a1dc4baffe75f270200006b
+
+Count IP Addresses
+ips-between.js
+https://www.codewars.com/kata/526989a41034285187000de4
