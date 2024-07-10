@@ -59,3 +59,7 @@ https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
 Simple Pig Latin
 simple-pig-latin.js
 https://www.codewars.com/kata/520b9d2ad5c005041100000f
+
+Human readable duration format
+human-readable-duration-format.js
+https://www.codewars.com/kata/52742f58faf5485cae000b9a
