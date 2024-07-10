@@ -55,3 +55,7 @@ https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084
 Range Extraction
 range-extraction.js
 https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
+
+Simple Pig Latin
+simple-pig-latin.js
+https://www.codewars.com/kata/520b9d2ad5c005041100000f
