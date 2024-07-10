@@ -49,5 +49,9 @@ powerset.js
 https://www.codewars.com/kata/59157809f05d9a8ad7000096
 
 Sums of Perfect Squares
-
+sums-of-perfect-squares.js / sums-of-perfect-squares-dp.js
 https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084
+
+Range Extraction
+range-extraction.js
+https://www.codewars.com/kata/51ba717bb08c1cd60f00002f
